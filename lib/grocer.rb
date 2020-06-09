@@ -7,7 +7,6 @@ counter = 0
     end 
     counter += 1 
   end
-  nil 
 end
 
 def consolidate_cart(cart)
