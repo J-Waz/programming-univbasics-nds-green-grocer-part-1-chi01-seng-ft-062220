@@ -19,4 +19,6 @@ def consolidate_cart(cart)
 end
 
 
+# return [{:item => "AVACADO", :price => 3.00, :clearance => true, :counter => 3}]
+# item: 
   
