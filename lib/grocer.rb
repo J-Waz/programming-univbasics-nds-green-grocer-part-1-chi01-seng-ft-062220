@@ -3,10 +3,10 @@ def find_item_by_name_in_collection(name, collection)
   #
   # Consult README for inputs and outputs
 counter = 0 
-while counter < collection.length 
+  while counter < collection.length 
   
-  counter += 1 
-end
+    counter += 1 
+  end
 end
 
 def consolidate_cart(cart)
